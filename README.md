@@ -3,6 +3,7 @@ Features:
 - Home Page
 - Side Bar with popular categories
 - Can search through the search box
+- Likes & Counts on the videos 
 - Search Feed can show Videos, Channels, Playlists
 - Channel Details Page
 - Video Player(embedded React Player)
