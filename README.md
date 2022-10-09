@@ -7,7 +7,8 @@ Features:
 - Search Feed can show Videos, Channels, Playlists
 - Channel Details Page
 - Video Player(embedded React Player)
-To Do - Playlists are currently only detected but non-clickable/playable. 
+
+**To Do - Playlists are currently only detected but non-clickable/playable. 
 
 Try it out: https://eloquent-scone-681689.netlify.app/
 
